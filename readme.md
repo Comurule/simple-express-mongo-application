@@ -1,4 +1,4 @@
-# A Simple Express-Mongo-Application #
+# A Simple Express Mongo Application #
 
 ### Description ###
 
